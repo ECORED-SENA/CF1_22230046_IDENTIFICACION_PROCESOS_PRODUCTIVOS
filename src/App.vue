@@ -28,4 +28,21 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.banner-principal
+  .tarjeta
+    background-color: transparent !important
+    border-top-right-radius: 0
+    border-bottom-right-radius: 0
+    @media (max-width: 1200px)
+      background-image: url('/img/fondo-banner-principal.svg') !important
+  .banner-principal__img
+    min-height: 540px
+    img
+      display: none
+.banner-principal__info
+  .banner-principal__componente h1, .banner-principal__descripcion p
+    color: black !important
+.banner-interno__fondo
+  background-image: url('/img/banner-interno.svg') !important
+</style>
