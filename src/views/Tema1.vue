@@ -158,7 +158,7 @@
             .col.mb-3.mb-sm-0
               p.text-small Tabla 1  Clasificación de los grupos de interés
             .col-sm-auto
-              a.boton.color-acento-botones.texto-negro.py-1(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-negro.py-1(:href="obtenerLink('downloads/tabla-1.docx')" target="_blank")
                 span.pe-3 Descargar
                 img(src="@/assets/curso/temas/tema1/icon-archivo.svg" style="max-width: 35px")
 

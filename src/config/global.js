@@ -131,32 +131,81 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Organización',
+      referencia:
+        'Peralzate. (2017). #[em ¿Qué es una organización?] [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/V_NE3DyOluo',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Proceso productivo',
+      referencia:
+        'Michael Vásquez Marketing. (2018). #[em Qué es un proceso productivo, diferencias entre bienes y servicios.] [Video]. YouTube.',
+      tipo:
+        'Que es un proceso productivo, diferencias entre bienes y servicios.',
+      link: 'https://youtu.be/XaB4wi79iFo',
+    },
+    {
+      tema: 'Procesos productivos',
+      referencia:
+        'Arcusa, I., Gil, F., y Suñe A. (2004). #[em Manual práctico de diseño de sistemas productivos. Ediciones] Díaz de Santos, S.A.',
+      tipo:
+        'Capítulo 3 del libro Manual práctico de diseño de sistemas productivos',
+      link:
+        'https://books.google.com.co/books?id=oP0THCPJ2-gC&lpg=PR2&dq=ciclo%20productivo&hl=es&pg=PR2#v=onepage&q=ciclo%20productivo&f=false',
+    },
+    {
+      tema: 'Gestión de los procesos',
+      referencia:
+        'Pérez, F. de V., J. (2012). #[em Gestión por procesos.] ESIC Editorial.',
+      tipo: 'Capítulo 4 del libro Gestión por procesos',
+      link: 'https://youtu.be/V_NE3DyOluo',
+    },
+    {
+      tema: 'Normatividad de producción sostenible',
+      referencia:
+        'Unesco Etxea - Centro Unesco del País Vasco (2018). ODS 12. #[em Producción y consumo responsables.] [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Y2n7xFQWOjo',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Actividad económica',
+      significado:
+        'ordenación por cuenta propia de los medios de producción y de recursos humanos, o de uno de ambos, con la finalidad de intervenir en la producción o distribución de bienes o servicios, comprendiendo tanto las actividades profesionales como empresariales.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Empresa',
+      significado:
+        'entidad que mediante la organización de elementos humanos, materiales, técnicos y financieros proporciona bienes o servicios a cambio de un precio que le permite la reposición de los recursos empleados y la consecución de unos objetivos determinados.',
+    },
+    {
+      termino: 'Organización',
+      significado:
+        'compañía, sociedad, firma, empresa, autoridad o institución, o parte o combinación de ellas, tenga o no personalidad jurídica, y sea pública o privada, que tiene sus propias funciones y medios de decisión y gestión. <br><br>Conjunto de personas organizadas con un objetivo específico. Están constituidas por un grupo de personas que interactúan entre sí, deben desarrollar un conjunto de acciones, utilizar habilidades, enfoques y técnicas que posibiliten el logro de determinados resultados. Cuando se mencionan estas acciones generalmente se les refiere como gestión.',
+    },
+    {
+      termino: 'Proceso',
+      significado:
+        'mezcla de transformación de un conjunto específico de insumos en uno de rendimientos. Un proceso se hace para producir un artículo, concluir una tarea o prestar un servicio. También puede definirse como un conjunto de actividades.',
+    },
+    {
+      termino: 'Productividad',
+      significado:
+        'relación entre la cantidad de bienes y servicios producidos (salidas) y la cantidad de fuerza de trabajo, capital, tierra, energía y otros recursos que intervinieron en la producción (entradas), diseñado para producir un resultado específico para un cliente / usuario o mercado particular.',
+    },
+    {
+      termino: 'Producto',
+      significado:
+        'cualquier cosa que puede ser ofertada a un mercado con el objetivo de ganar su atención, su adquisición o su consumo y que pueda satisfacer un deseo o una necesidad. Incluye objetos, servicios, personas, lugares organizacionales e ideas.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Suin-juriscol.gov.co. (2022). Normativa para el desarrollo sostenible. [en línea]',
+      link: 'https://www.suin-juriscol.gov.co/legislacion/sostenible.html',
     },
   ],
   creditos: {
@@ -169,10 +218,35 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Diana Julieth Núñez Ortegón',
+        cargo: 'Experta Temática',
+        centro: 'Regional Tolima, Centro de Comercio y Servicios',
+      },
+      {
+        nombre: 'Yisela Andrea Vidales Vásquez',
+        cargo: 'Experta Temática',
+        centro: 'Regional Tolima, Centro de Comercio y Servicios',
+      },
+      {
+        nombre: 'Caterine Bedoya Mejía',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Asesora Metodológica',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
+      {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
       },
     ],
     desarrolloProducto: [
