@@ -11,13 +11,13 @@
 
     .col-xl-10.mx-auto.mb-5(data-aos="fade-left")
       .text-decorativo-v4
-        p.p-4.mb-0 para garantizar el éxito en el proceso productivo, la organización debe contar con la capacidad instalada para llevar a cabo los objetivos mismos de la producción, así, se necesita contar con el conocimiento y la tecnología que permita suplir las condiciones propias de la producción y obtener el bien o servicio de calidad para su promoción y comercialización.
+        p.p-4.mb-0 ...para garantizar el éxito en el proceso productivo, la organización debe contar con la capacidad instalada para llevar a cabo los objetivos mismos de la producción, así, se necesita contar con el conocimiento y la tecnología que permita suplir las condiciones propias de la producción y obtener el bien o servicio de calidad para su promoción y comercialización.
     
     p.mb-5(data-aos="fade-right") Dentro de las organizaciones actuales los procesos productivos están regulados por el sistema de administración de operaciones, este permite entender qué respuesta deben dar los bienes y servicios que produce la empresa como lo muestra la siguiente figura.
 
     .titulo-sexto.color-primario.col-xl-10.mx-auto
       .d-block
-        h5 Figura 1 Organización de un sistema integrado
+        h5 Figura 3 Sistema de administración de operaciones
     img(src="@/assets/curso/temas/tema2/img-1.svg" data-aos="fade-left")
     p.mb-5.px-3.py-3(style="background-color: #F6F6F6;" data-aos="fade-left") Nota. Tomada de Carro y González (2012, p. 4)
 
@@ -54,7 +54,7 @@
       .d-flex.flex-wrap.px-2
         h4.text-center.w-100.mb-4 Fase 3: Procesamiento (etapa de acondicionamiento)
         img.mb-4(src="@/assets/curso/temas/tema2/img-6.png")
-        p.mb-0 En esta etapa se define la cantidad de materia prima que se requiere y los costos que esto implica, además del almacenaje, ya que estos valores influyen notoriamente en la ganancia esperada.
+        p.mb-0 En esta última etapa se prepara el producto para su entrega y se verifica que cumple con los estándares de calidad.
 
     p.mb-4(data-aos="fade-right") Es importante entender que las etapas del proceso productivo conllevan a establecer una serie de parámetros desde la elaboración, circulación y consumo de los bienes y/o servicios ajustados a los estándares de calidad y a la especialidad que tiene la organización para dar respuesta a la demanda del mercado. En esa medida, el proceso productivo viene de un estudio previo a la operación y a los ritmos de trabajo dentro de la organización para no tener fugas de capital, tanto económico como humano, y para esto, es importante tener en cuenta la toma de decisiones acerca de la calidad, procesos y capacidad e inventario que repercuten en el proceso productivo y están mutuamente relacionados. Por tal razón, es imperante tener en cuenta la estrategia de la organización, el análisis táctico y que estos se complementen de manera dialógica (Carro y González, 2012)
     p.mb-5(data-aos="fade-right") Para ampliar la información de esta temática, se presenta el siguiente video:
@@ -70,7 +70,7 @@
       img.mb-4.mb-xl-0.col-xl-5(src="@/assets/curso/temas/tema2/img-7.jpg" data-aos="fade-right")
       .col-xl-7.ps-xl-4(data-aos="fade-left")
         p Otro rasgo del proceso productivo es que las actividades mediante las cuales uno o varios insumos o servicios son transformados y adquieren valor agregado están condicionadas, primero, por la calidad que tiene que ver con el establecer estándares que debe cumplir el bien o servicio; segundo, por las decisiones estratégicas, las cuales se refieren a las decisiones respecto a la dirección de las operaciones de la producción, la cantidad de materia prima, la cantidad de automatización que se puede utilizar y el fomento del trabajo en equipo; y, tercero, por las decisiones de operación, estas, tienen que ver con el funcionamiento de la instalación o la prestación del servicio una vez terminado y ofrecido (Carro y González, 2012). 
-        p.mb-0 De tal modo, la producción sostenible junto con la economía circular permiten que las empresas generen ahorros tanto en materia prima como en capital humano, así como optimizar los costos de producción y distribución; además, en la medida en que se generan nuevas necesidades dentro del mercado, la industria ha tomado subproductos que dejan las transformaciones de las materias primas lo que contribuye a generar nuevos ingresos y oportunidades de negocio. En la actualidad, las organizaciones no producen un solo objeto de consumo y, si es así, los desechos de la transformación son utilizados para suplir las necesidades internas o para comercializar en el mercado externo. 
+        p.mb-0 El proceso productivo se debe regir a las características de la producción demandada y la que se puede ofertar según la capacidad que tiene la organización para dar respuesta tanto a productos tangibles e intangibles. Así mismo, los procesos de producción toman como punto de partida el contexto; la sociedad a la que se le provee el servicio o artículo, por ende, las vicisitudes socioculturales propias del contexto empresarial en el que opera la organización. De esta manera, el proceso de producción cuenta con diferentes tipos dentro de la organización para  garantizar que la producción responda a las demandas de los clientes y que la planeación estratégica de la organización dé respuesta a cada uno de los procesos productivos.
 
     p.mb-5(data-aos="fade-right") Algunos de los tipos de producción que existen en las organizaciones se pueden analizar en el siguiente recurso:
 

@@ -207,6 +207,41 @@ export default {
         'Suin-juriscol.gov.co. (2022). Normativa para el desarrollo sostenible. [en línea]',
       link: 'https://www.suin-juriscol.gov.co/legislacion/sostenible.html',
     },
+    {
+      referencia:
+        'Alfonso, Á., N. Z. H. (2015). #[em Principales normas ambientales colombianas.] EAN.',
+      link: '',
+    },
+    {
+      referencia:
+        'Alonso, M., E., Ocegueda, M., V., y Castro, E. (2006). #[em Teoría de las organizaciones.] Umbral Editorial. S.A. de C.V.',
+      link: '',
+    },
+    {
+      referencia:
+        'Amorrazarain, M. (1999). #[em La gestión por procesos.] Editorial Mondragón Corporación Corporativa.',
+      link: '',
+    },
+    {
+      referencia:
+        'Carro, R., y González, G., D. A. (2012). #[em El sistema de producción y operaciones.] Universidad Nacional del Mar del Plata.',
+      link: '',
+    },
+    {
+      referencia:
+        'Castaño, Q., C. A., Díaz, C., N., & Lozano, C., J. (2013). #[em Manual para la gestión del relacionamiento con los grupos de interés.] EAN.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cetys Universidad. (2021). #[em ¿Qué es un proceso de producción empresarial?] Cetys -  Educación Continua.',
+      link: '',
+    },
+    {
+      referencia:
+        'Molinari, G., Alfonso, A., y Scaramellini, N. (2018). #[em Las áreas funcionales en las organizaciones: particularidades en las organizaciones turísticas.] Universidad Nacional de la Plata.',
+      link: '',
+    },
   ],
   creditos: {
     liderEquipo: [

@@ -25,7 +25,7 @@
         .bloque-texto-f__comillas
           i.fas.fa-quote-left
           i.fas.fa-quote-right
-        h4.text-regular.bloque-texto-f__texto la organización debe concebirse como un sistema abierto; es decir, que tiene múltiples relaciones con el ambiente, por lo cual, define la organización como la coordinación planificada de las actividades de un grupo de personas para procurar el logro de un objetivo o propósito explícito y común a través de la división del trabajo y funciones mediante una jerarquía de autoridad y responsabilidad, como se presenta en figura 1.
+        h4.text-regular.bloque-texto-f__texto La organización debe concebirse como un sistema abierto; es decir, que tiene múltiples relaciones con el ambiente, por lo cual, define la organización como la coordinación planificada de las actividades de un grupo de personas para procurar el logro de un objetivo o propósito explícito y común a través de la división del trabajo y funciones mediante una jerarquía de autoridad y responsabilidad, como se presenta en figura 1.
         .bloque-texto-f__autor.mb-3
           h4.text-start.mb-0 -Shein (2006, como citó Murguía, Ocegueda  y Castro, 2006), 
     
@@ -80,36 +80,36 @@
         .row.justify-content-center.mb-3
           .col-7.mb-4
             img(src='@/assets/curso/temas/tema1/slide-2.svg')
-        h4.mb-4.text-center(style="color: white") Actividades técnicas 
-        p.text-center(style="color: white") Producción, transformación y fabricación
+        h4.mb-4.text-center(style="color: white") Actividades comerciales 
+        p.text-center(style="color: white") Compras, ventas e intercambios.
       
       .tarjeta.color-acento-botones.p-4.h-100(style="background-color: #CEE6E6")
         .row.justify-content-center.mb-3
           .col-10.mb-4
             img(src='@/assets/curso/temas/tema1/slide-3.svg')
-        h4.mb-4.text-center Actividades técnicas 
-        p.text-center Producción, transformación y fabricación
+        h4.mb-4.text-center Actividades financieras 
+        p.text-center Captación y administración de capitales.
       
       .tarjeta.color-acento-botones.p-4.h-100(style="background-color: #0E8282")
         .row.justify-content-center.mb-3
           .col-10.mb-4
             img(src='@/assets/curso/temas/tema1/slide-4.svg')
-        h4.mb-4.text-center(style="color: white") Actividades técnicas 
-        p.text-center(style="color: white") Producción, transformación y fabricación
+        h4.mb-4.text-center(style="color: white") Actividades de seguridad 
+        p.text-center(style="color: white") Protección de los bienes y de las personas.
       
       .tarjeta.color-acento-botones.p-4.h-100(style="background-color: #CEE6E6")
         .row.justify-content-center.mb-3
           .col-10.mb-4
             img(src='@/assets/curso/temas/tema1/slide-5.svg')
-        h4.mb-4.text-center Actividades técnicas 
-        p.text-center Producción, transformación y fabricación
+        h4.mb-4.text-center Actividades contables 
+        p.text-center Inventarios, balances y costos.
       
       .tarjeta.color-acento-botones.p-4.h-100(style="background-color: #0E8282")
         .row.justify-content-center.mb-3
           .col-10.mb-4
             img(src='@/assets/curso/temas/tema1/slide-6.svg')
-        h4.mb-4.text-center(style="color: white") Actividades técnicas 
-        p.text-center(style="color: white") Producción, transformación y fabricación
+        h4.mb-4.text-center(style="color: white") Actividades administrativas 
+        p.text-center(style="color: white") Dirección, previsión, organización, mando, coordinación y control.
 
     p.mb-5(data-aos="fade-right") En toda organización se establecen funciones básicas y funciones de apoyo, las cuales son:
 
@@ -132,20 +132,20 @@
 
     .titulo-sexto.color-primario.col-xl-10.mx-auto.mb-5
       .d-block
-        h5 Figura 1 Organización de un sistema integrado
+        h5 Figura 2 Ejemplo de áreas funcionales de una empresa – organigrama
 
     img.mb-5.ms-auto(src='@/assets/curso/temas/tema1/img-3.svg' data-aos="fade-left")
 
     .titulo-segundo.color-primario
-      h2#t_1_3 1.3  Grupos de interés (stakeholders)
+      h2#t_1_3 1.3  Grupos de interés (#[em stakeholders])
 
-    p.mb-4(data-aos="fade-right") Es necesario entender que, en el desarrollo diario de las actividades y operaciones propias de la organización, existen decisiones y acciones que afectan a las personas vinculadas de forma directa o indirecta con la empresa, los cuales son conocidos como grupos de interés (stakeholders); entre ellos se destacan los accionistas, empleados, proveedores, clientes y sociedad en general. Sin embargo, es necesario resaltar que, la influencia y afectación no solo la ejerce la organización sobre los grupos de interés, sino que esta se puede dar en viceversa. Hay que mencionar, además, que los grupos de interés pueden influir en diferentes aspectos sobre la organización, como la toma de decisiones, la estrategia y direccionamiento, las operaciones e ingresos y la imagen corporativa de la empresa
+    p.mb-4(data-aos="fade-right") Es necesario entender que, en el desarrollo diario de las actividades y operaciones propias de la organización, existen decisiones y acciones que afectan a las personas vinculadas de forma directa o indirecta con la empresa, los cuales son conocidos como grupos de interés (#[em stakeholders]); entre ellos se destacan los accionistas, empleados, proveedores, clientes y sociedad en general. Sin embargo, es necesario resaltar que, la influencia y afectación no solo la ejerce la organización sobre los grupos de interés, sino que esta se puede dar en viceversa. Hay que mencionar, además, que los grupos de interés pueden influir en diferentes aspectos sobre la organización, como la toma de decisiones, la estrategia y direccionamiento, las operaciones e ingresos y la imagen corporativa de la empresa
     .d-flex.flex-wrap.mb-5
       .col-xl-5
         img.mx-auto(src='@/assets/curso/temas/tema1/img-4.svg' data-aos="fade-right")
       .col-xl-7.ps-xl-4(data-aos="fade-left")
         p Entonces, una parte fundamental de las estrategias de las organizaciones es la relación con los grupos de interés, dado que es indispensable, mantener la armonía y adecuada relación con cada uno de estos actores económicos para lograr maximizar los beneficios de la actividad empresarial y alcanzar la sostenibilidad de la empresa. 
-        p De esta manera, el primer paso es identificar y clasificar las personas o grupos que tiene relación o reciben algún impacto con el desarrollo de las actividades de acuerdo con el área o dependencia de la empresa y la dimensión al que pertenece, ya que no solo se debe analizarse desde el punto  de vista económico, sino que se debe tener en cuenta la parte social y ambiental.
+        p De esta manera, el primer paso es identificar y clasificar las personas o grupos que tiene relación o reciben algún impacto con el desarrollo de las actividades de acuerdo con el área o dependencia de la empresa y la dimensión al que pertenece, ya que no solo se debe analizar desde el punto  de vista económico, sino que se debe tener en cuenta la parte social y ambiental.
 
     p.mb-5(data-aos="fade-right") A continuación, se presenta la tabla 1 que resume la clasificación de los grupos de interés de acuerdo con las principales dimensiones (social, económica y ambiental). 
 
@@ -166,7 +166,7 @@
       .col-xl-5.mx-auto.mb-4.mb-xl-0
         img(src="@/assets/curso/temas/tema1/img-5.jpg" data-aos="fade-right")
       .col-xl-7.p-3.p-xl-4(style="background-color: #E1EFEF; border: 1px solid #B5D8D8;" data-aos="fade-left")
-        p De esta forma, una vez identificados los grupos, es adecuado agrupar los stakeholders de acuerdo con la similitud para facilitar la selección y priorización de los grupos más relevantes para la organización, teniendo en cuenta factores como el tipo y nivel de influencia actual o futura que estos ejercen; sus expectativas, intereses, compromisos y necesidades, debido a que los diferentes stakeholders en torno a la organización tienen características, necesidades y objetivos propios. 
+        p De esta forma, una vez identificados los grupos, es adecuado agrupar los #[em stakeholders] de acuerdo con la similitud para facilitar la selección y priorización de los grupos más relevantes para la organización, teniendo en cuenta factores como el tipo y nivel de influencia actual o futura que estos ejercen; sus expectativas, intereses, compromisos y necesidades, debido a que los diferentes #[em stakeholders] en torno a la organización tienen características, necesidades y objetivos propios. 
         p.mb-0 Más aún, la comunicación y el diálogo son el medio más efectivo, ya que son herramientas que permiten construir y mantener relaciones en las que prevalezca el compromiso mutuo que aporte al posicionamiento socialmente responsable y a la construcción de una sociedad más sostenible
 
 </template>
