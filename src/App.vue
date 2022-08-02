@@ -32,8 +32,6 @@ export default {
 .banner-principal
   .tarjeta
     background-color: transparent !important
-    border-top-right-radius: 0
-    border-bottom-right-radius: 0
     @media (max-width: 1200px)
       background-image: url('/img/fondo-banner-principal.svg') !important
   .banner-principal__img

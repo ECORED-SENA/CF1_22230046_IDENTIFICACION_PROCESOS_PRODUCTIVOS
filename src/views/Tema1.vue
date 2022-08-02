@@ -33,11 +33,13 @@
       .d-block
         h5 Figura 1 Organización de un sistema integrado
     img(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-left")
-    p.px-4.py-3.mb-5(style="background-color: #F6F6F6;" data-aos="fade-left") Nota. Tomada de Murguía, Ocegueda y Castro (2006)
+    p.px-4.py-3(style="background-color: #F6F6F6;" data-aos="fade-left") Nota. Tomada de Murguía, Ocegueda y Castro (2006)
+
+    Separador
 
     .titulo-segundo.color-primario
       h2#t_1_1 1.1 Tipos de actividad económica
-    
+
     p.mb-5(data-aos="fade-right") La actividad económica es el proceso que involucra la elaboración e intercambio de bienes, servicios y productos para satisfacer las necesidades de las personas, por lo cual, involucra la generación del bien, servicio o producto, su distribución y el consumo; todo esto en conjunto para generar un beneficio económico. Es así que se puede dividir las actividades económicas en tres grupos:
 
     SlyderA.p-4.p-lg-4.slider-v1.mb-5(tipo="b" data-aos="fade-left")
@@ -134,7 +136,9 @@
       .d-block
         h5 Figura 2 Ejemplo de áreas funcionales de una empresa – organigrama
 
-    img.mb-5.ms-auto(src='@/assets/curso/temas/tema1/img-3.svg' data-aos="fade-left")
+    img.ms-auto(src='@/assets/curso/temas/tema1/img-3.svg' data-aos="fade-left")
+
+    Separador
 
     .titulo-segundo.color-primario
       h2#t_1_3 1.3  Grupos de interés (#[em stakeholders])

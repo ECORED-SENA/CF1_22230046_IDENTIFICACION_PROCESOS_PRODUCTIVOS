@@ -3,13 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-acento-contenido.d-flex.justify-content-between.mb-5
-      .d-block
-        h5 La organización y los procesos productivos
-        br
-        span Sistemas de procesos productivos
-      img(src="@/assets/sena.svg" style="max-width: 50px")
-
     p Toda organización presenta una estructura funcional definida que le permite el desarrollo eficiente de sus procesos, con miras a satisfacer las necesidades del cliente y el logro de los objetivos propuestos, estableciendo mecanismos para coordinar, mejorar e incrementar la productividad, teniendo como prioridad el desarrollo de las actividades y operaciones propias de la organización, sin afectar a las personas vinculadas de forma directa o indirecta con el desarrollo de la misma.
 
     p Para cumplir con los objetivos organizacionales es importante conocer claramente la organización, el tipo de actividad económica que desarrolla, sus áreas funcionales, quiénes se ven involucrados de manera directa o indirecta con su funcionamiento, todos los componentes del proceso productivo, cómo se deben gestionar los procesos dentro de la organización y los requisitos para el cumplimiento de la normatividad, ya que de esta manera se estaría contemplando a la organización como un sistema.

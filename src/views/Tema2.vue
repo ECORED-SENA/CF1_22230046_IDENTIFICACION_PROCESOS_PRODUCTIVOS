@@ -27,7 +27,9 @@
     img.mb-5.d-none.d-md-flex(src="@/assets/curso/temas/tema2/img-2.svg" data-aos="fade-left")
     img.mb-5.d-flex.d-md-none(src="@/assets/curso/temas/tema2/img-2-movil.svg" data-aos="fade-left")
 
-    p.mb-5(data-aos="fade-right") Retomando la figura 3, el sistema de producción se aplica no solo a la empresa, sino también a diferentes departamentos de la organización. Es así como el proceso productivo no solo responde a los clientes externos, sino también internos de la organización independientemente de si el producto final consiste en servicios o manufacturas. De este modo, el proceso productivo es un ciclo determinado por la transformación que está conectada a una serie de etapas que conecta la tecnología, el mercado y el capital humano de la organización.
+    p(data-aos="fade-right") Retomando la figura 3, el sistema de producción se aplica no solo a la empresa, sino también a diferentes departamentos de la organización. Es así como el proceso productivo no solo responde a los clientes externos, sino también internos de la organización independientemente de si el producto final consiste en servicios o manufacturas. De este modo, el proceso productivo es un ciclo determinado por la transformación que está conectada a una serie de etapas que conecta la tecnología, el mercado y el capital humano de la organización.
+
+    Separador
 
     .titulo-segundo.color-primario
       h2#t_2_1 2.1 Etapas del proceso productivo 
@@ -81,7 +83,7 @@
             .tarjeta-slide__contenido.p-5.p-xl-5
               h4.text-center Producción por <br> proyecto
               p.text-center Es un proceso productivo  especial individualizado, donde los productos son diferentes según el proyecto.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tj-slide-1.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tj-slide-1.png')})`}")
 
       .col-sm-6.col-xl-3.mb-4.mb-xl-0.px-2
         .tarjeta-slide.arriba.color-primario(style="background-color: #C9F0EE; min-height: 299px")
@@ -89,7 +91,7 @@
             .tarjeta-slide__contenido.p-5.p-xl-5
               h4.text-center Producción por lote
               p.text-center En este tipo de producción los productos se elaboran en pequeños volúmenes.Hay diversidad de productos que se asemejan entre sí
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tj-slide-2.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tj-slide-2.png')})`}")
       
       .col-sm-6.col-xl-3.mb-4.mb-xl-0.px-sm-2
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false" style="background-color: #C9F0EE; min-height: 299px")
@@ -98,7 +100,7 @@
             .tarjeta-slide__contenido.p-5.p-xl-5
               h4.text-center Producción <br> artesanal
               p.text-center Los productos se realizan por encargo y su característica es que son personalizados, se realizan a gusto del comprador
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tj-slide-3.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tj-slide-3.png')})`}")
       
       .col-sm-6.col-xl-3.mb-4.mb-xl-0.px-2
         .tarjeta-slide.arriba.color-primario(style="background-color: #C9F0EE; min-height: 299px")
@@ -106,13 +108,15 @@
             .tarjeta-slide__contenido.p-5.p-xl-5
               h4.text-center Producción en serie
               p.text-center Este tipo de producción se requiere de gran inversión en maquinaria, pues el volumen con el que se trabaja es muy grande y se produce en masa
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tj-slide-4.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tj-slide-4.png')})`}")
     
     p.mb-5(data-aos="fade-right") En la elaboración y transformación de bienes o servicios la producción siempre no es la misma, pues esta responde a la una organización o cliente en específico, lo que conlleva a que el proceso productivo esté clasificado por la manera como se responde al requerimiento comercial o de servicio que se desea suplir o responder. 
 
-    .col-xl-10.mx-auto.mb-5(data-aos="fade-left")
+    .col-xl-10.mx-auto(data-aos="fade-left")
       .text-decorativo-v4
         p.p-4.mb-0 Entonces, es importante entender que el proceso productivo de manera holística no solo requiere del capital humano y económico de la organización, sino que debe tener en cuenta el tipo de cliente, el servicio o bien que demanda, o sea, adaptarse a las necesidades del cliente, o por la cantidad de productos idénticos y a la escala de producción y compra.
+
+    Separador
 
     .titulo-segundo.color-primario
       h2#t_2_3 2.3. Ciclos de producción
