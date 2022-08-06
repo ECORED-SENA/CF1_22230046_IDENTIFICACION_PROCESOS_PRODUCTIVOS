@@ -33,7 +33,7 @@ export default {
   .tarjeta
     background-color: transparent !important
     @media (max-width: 1200px)
-      background-image: url('/img/fondo-banner-principal.svg') !important
+      background-image: url('./assets/curso/portada/fondo-banner-principal.svg') !important
   .banner-principal__img
     min-height: 540px
     img
@@ -42,5 +42,5 @@ export default {
   .banner-principal__componente h1, .banner-principal__descripcion p
     color: black !important
 .banner-interno__fondo
-  background-image: url('/img/banner-interno.svg') !important
+  background-image: url('./assets/curso/portada/banner-interno.svg') !important
 </style>

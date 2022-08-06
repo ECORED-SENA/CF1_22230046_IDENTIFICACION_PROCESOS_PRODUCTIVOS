@@ -19,7 +19,8 @@
     .titulo-sexto.color-primario.col-xl-10.mx-auto
       .d-block
         h5 Figura 3 Sistema de administración de operaciones
-    img.img-bg.mb-5(src="@/assets/curso/temas/tema2/img-1.svg" data-aos="fade-left")
+    img.img-bg(src="@/assets/curso/temas/tema2/img-1.svg" data-aos="fade-left")
+    p(style="background-color: #F6F6F6; padding: .5rem 1rem; margin-top: -1rem; position: relative").mb-5 Nota. Tomada de Carro y González (2012, p. 4)
 
     .bloque-texto-e.p-4.col-xl-10.mx-auto.mb-5.d-flex.flex-wrap(data-aos="fade-left" style="background-color: #F8EAEA")
       .bloque-texto-e__texto.d-flex.flex-wrap.col-md-10.order-2.order-md-1
@@ -50,17 +51,17 @@
     p.mb-5(data-aos="fade-right") No obstante, más allá de las fases administrativas a las que debe estar sometido el proceso productivo, este tiene sus propias etapas, como se evidencia en el siguiente recurso educativo:
 
     LineaTiempoC.p-4.p-lg-4.slider-v2.mb-5(tipo="b" data-aos="fade-left")
-      .d-flex.flex-wrap.px-2
+      .d-flex.flex-wrap.px-2.col-xl-11.mx-auto
         h4.text-center.w-100.mb-4 Fase 1: Acopio (etapa analítica)
         img.mb-4(src="@/assets/curso/temas/tema2/img-4.png")
         p.mb-0 En esta etapa se define la cantidad de materia prima que se requiere y los costos que esto implica, además del almacenaje, ya que estos valores influyen notoriamente en la ganancia esperada.
 
-      .d-flex.flex-wrap.px-2
+      .d-flex.flex-wrap.px-2.col-xl-11.mx-auto
         h4.text-center.w-100.mb-4 Fase 2: Producción (etapa de síntesis o montaje)
         img.mb-4(src="@/assets/curso/temas/tema2/img-5.png")
         p.mb-0 Aquí se da la transformación de la materia prima para elaborar el producto final; se identifican las desviaciones y se realizan las debidas correcciones para evitar pérdidas e inconvenientes.
       
-      .d-flex.flex-wrap.px-2
+      .d-flex.flex-wrap.px-2.col-xl-11.mx-auto
         h4.text-center.w-100.mb-4 Fase 3: Procesamiento (etapa de acondicionamiento)
         img.mb-4(src="@/assets/curso/temas/tema2/img-6.png")
         p.mb-0 En esta última etapa se prepara el producto para su entrega y se verifica que cumple con los estándares de calidad.
@@ -73,7 +74,7 @@
         p.ms-xl-5.fw-bold (Carro y González, 2012)
         i.fas.fa-quote-right.ms-auto(style="color: #0E8282")
       img(src="@/assets/curso/temas/tema2/decorador-2.png" data-aos="fade-left" style="max-width: 237px").m-auto.mb-4.mb-lg-auto.col-lg-3.mx-auto.order-1.order-lg-2
-
+    p.mb-4 Para ampliar la información de esta temática, se presenta el siguiente video:
     figure(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/aQXzkqEtgRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -150,8 +151,8 @@
 
     p.mb-5(data-aos="fade-right") En la siguiente gráfica se muestra de forma general el proceso las etapas y áreas de la organización que están involucradas en el ciclo del proceso productivo:
 
-    img.mb-4(src="@/assets/curso/temas/tema2/img-9.jpg" data-aos="fade-right")
-    p.p-3(style="background-color: #F6F6F6;" data-aos="fade-left") Nota. Sena (2022)
+    img(src="@/assets/curso/temas/tema2/img-9.jpg" data-aos="fade-right")
+    p.p-3.col-xl-10.mx-auto(style="background-color: #F6F6F6; margin-top: -1rem; position: relative" data-aos="fade-left") Nota. Sena (2022)
 
     Separador
 
@@ -169,14 +170,16 @@
     SlyderA.p-4.p-lg-4.slider-v3.mb-5(tipo="b" data-aos="fade-left" :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/bg-slider.svg')})`}")
       .d-flex.flex-wrap.px-2.px-lg-5
         p.w-100.ps-lg-4 #[b Proyección hacia las necesidades e intereses]  de los clientes enfocada en definir el proceso.
-        img(src="@/assets/curso/temas/tema2/slide-1.svg" style="max-width: 820px").mx-auto
+        img(src="@/assets/curso/temas/tema2/slide-1.svg" style="max-width: 820px").col-xl-8.mx-auto
 
       .d-flex.flex-wrap.px-2.px-lg-5
-        p.w-100.ps-lg-4 #[b Tipificación del mapa de procesos de la organización], clasifica los procesos de la organización: operativos, de apoyo y estratégicos o de gestión.
+        p.w-100.ps-lg-4.mb-5 #[b Tipificación del mapa de procesos de la organización], clasifica los procesos de la organización: operativos, de apoyo y estratégicos o de gestión.
+        p.fw-bold.col-xl-11.ms-xl-auto Procesos operativos
         img(src="@/assets/curso/temas/tema2/slide-2.svg" style="max-width: 1040px").mx-auto
 
       .d-flex.flex-wrap.px-2.px-lg-5
         p.w-100.ps-lg-4 #[b Tipificación del mapa de procesos de la organización], clasifica los procesos de la organización: operativos, de apoyo y estratégicos o de gestión.
+        p.w-100.fw-bold.ps-lg-4 Procesos de apoyo y gestión
         img(src="@/assets/curso/temas/tema2/slide-2-2.svg" style="max-width: 597px").mx-auto
 
       .d-flex.flex-wrap.px-2.px-lg-5
@@ -242,6 +245,15 @@ export default {
   .slyder-a__btn--sigt, .slyder-a__btn--atrs
     background-color: #FFD947
     opacity: 1
+  @media (max-width: 768px)
+    .slyder-a__tipo-b
+      .slyder-a__bullets
+        width: 200px
+        padding-right: .5rem
+        padding-left: .5rem
+        .slyder-a__bullets__item
+          margin-left: .1rem
+          height: 9px
 .bloque-edit
   border: none !important
   &.bloque-texto-d.color-primario:before

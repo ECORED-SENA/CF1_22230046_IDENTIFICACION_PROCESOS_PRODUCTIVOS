@@ -41,7 +41,7 @@
             th.texto-blanco(style="border: none;") Objetivo
             th.texto-blanco(style="border: none;") Informacion web
         tbody
-          tr
+          tr(style="background-color: #F6F6F6;")
             td.fw-bold Convenio para el cambio climatico
             td Lograr la estabilidad de las concentraciones de gases efecto invemadero (GEI) en la atmósfera 
             td.py-4
@@ -53,7 +53,7 @@
             td.py-4
               a(href="https://www.ecoportal.net/content/view/full/11998" target="_blank")
                 img.mx-auto(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
-          tr
+          tr(style="background-color: #F6F6F6;")
             td.fw-bold Convención de Basilea Residuos peligrosos (1989)
             td Disminuir el volumen de losintercambios de residuos con el fin de protegerla salud humana y el medio ambiente, estableciendo un sistema de control de las exportaciones e importaciones de residuos peligrosos, así como su eliminación.
             td.py-4
@@ -82,7 +82,7 @@
             th.texto-blanco(style="border: none;") Objetivo
             th.texto-blanco(style="border: none;") Informacion web
         tbody
-          tr
+          tr(style="background-color: #F6F6F6;")
             td.fw-bold.text-center LEY 1964 2019
             td Por medio de la cual se promueve el uso de vehículos eléctricos en Colombia y se dictan otras disposiciones
             td.py-4
@@ -96,7 +96,7 @@
               a.d-flex.align-items-center.justify-content-center(href="https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30036486" target="_blank")
                 img.me-3(src="@/assets/template/icono-link.svg" style="max-width: 36px; cursor: pointer;")
                 p.mb-0.fw-bold(style="color: #006DF0") Enlace web.
-          tr
+          tr(style="background-color: #F6F6F6;")
             td.fw-bold.text-center LEY 1950 2019
             td Por medio de la cual se aprueba el “Acuerdo sobre los Términos de la Adhesión de la República de Colombia a la Convención de la Organización para la Cooperación y el Desarrollo Económicos”, suscrito en París, el 30 de mayo de 2018 y la "Convención de la Organización para la Cooperación y el Desarrollo Económicos”, hecha en parís el 14 de diciembre de 1960.
             td.py-4
