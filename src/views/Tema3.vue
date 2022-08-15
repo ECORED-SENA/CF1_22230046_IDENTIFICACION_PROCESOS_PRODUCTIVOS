@@ -45,25 +45,30 @@
             td.fw-bold Convenio para el cambio climatico
             td Lograr la estabilidad de las concentraciones de gases efecto invemadero (GEI) en la atmósfera 
             td.py-4
-              a(:href="obtenerLink('downloads/convsp.pdf')" target="_blank")
+              a(:href="obtenerLink('downloads/Convenio_Cambio_climatico.pdf')" target="_blank")
                 img.mx-auto(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
           tr
             td.fw-bold Convención de Viena (1985) y el Protocolo de Montreal (1987) República de Colombia (1992), los cuales protegen la  capa de ozono
             td Velar por la protección de la capa de ozono
-            td.py-4
-              a(href="https://www.ecoportal.net/content/view/full/11998" target="_blank")
-                img.mx-auto(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
+            td.py-4.d-flex.justify-content-center
+              a(href="downloads/Convenio_Viena_1985.pdf" target="_blank")
+                img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
+              a(href="downloads/Protocolo_montreal_1989.pdf" target="_blank")
+                img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
+              a(href="downloads/Colombia_1992_Capa_Ozono.pdf" target="_blank")
+                img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
+              
           tr(style="background-color: #F6F6F6;")
             td.fw-bold Convención de Basilea Residuos peligrosos (1989)
             td Disminuir el volumen de losintercambios de residuos con el fin de protegerla salud humana y el medio ambiente, estableciendo un sistema de control de las exportaciones e importaciones de residuos peligrosos, así como su eliminación.
             td.py-4
-              a(href="http://www.medioambiente.gov.ar/archivos/web/MERCOSUR/File/ANEXO%204%20POST%20CONSUMO.pdf" target="_blank")
+              a(href="downloads/Convenio_Brasilea_1989_Residuos_Peligrosos.pdf" target="_blank")
                 img.mx-auto(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
           tr
             td.fw-bold Convención para la protección de la biodiversidad
             td Fue promulgada en la Conferencia de Rio de Janeiro, en el año de 1991; su objetivo principal es la conservación de la biodiversidad
             td.py-4
-              a(href="http://www.humboldt.org.co/es/iavh/servicios/biblioteca/catalogo-de-publicaciones-humboldt" target="_blank")
+              a(href="downloads/Convenio_proteccion_biodiversidad.pdf" target="_blank")
                 img.mx-auto(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
 
     p.mb-5(data-aos="fade-right") Por otro lado, en lo que tiene que ver con la legislación nacional, la Ley 99 de 1993 crea el Ministerio de Ambiente y Desarrollo Rural, se ordena al sector público la gestión y conservación del medio ambiente y los recursos naturales renovables y se crea el Sistema Nacional Ambiental. En Colombia, la jerarquía institucional la encabeza el Ministerio de Ambiente y Desarrollo Rural, seguido de las corporaciones autónomas regionales llamadas CAR, y después la administración pública municipal. 
