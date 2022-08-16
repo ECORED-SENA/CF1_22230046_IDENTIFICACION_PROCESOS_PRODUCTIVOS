@@ -50,13 +50,14 @@
           tr
             td.fw-bold Convención de Viena (1985) y el Protocolo de Montreal (1987) República de Colombia (1992), los cuales protegen la  capa de ozono
             td Velar por la protección de la capa de ozono
-            td.py-4.d-flex.justify-content-center
-              a(href="downloads/Convenio_Viena_1985.pdf" target="_blank")
-                img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
-              a(href="downloads/Protocolo_montreal_1989.pdf" target="_blank")
-                img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
-              a(href="downloads/Colombia_1992_Capa_Ozono.pdf" target="_blank")
-                img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
+            td.py-4
+              .d-flex.justify-content-center
+                a(href="downloads/Convenio_Viena_1985.pdf" target="_blank")
+                  img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
+                a(href="downloads/Protocolo_montreal_1989.pdf" target="_blank")
+                  img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
+                a(href="downloads/Colombia_1992_Capa_Ozono.pdf" target="_blank")
+                  img.mx-3(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
               
           tr(style="background-color: #F6F6F6;")
             td.fw-bold Convención de Basilea Residuos peligrosos (1989)
