@@ -133,22 +133,21 @@ export default {
     {
       tema: 'Organización',
       referencia:
-        'Peralzate. (2017). #[em ¿Qué es una organización?] [Video]. YouTube.',
+        'Peralzate. (2017). <em> ¿Qué es una organización?</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/V_NE3DyOluo',
     },
     {
       tema: 'Proceso productivo',
       referencia:
-        'Michael Vásquez Marketing. (2018). #[em Qué es un proceso productivo, diferencias entre bienes y servicios.] [Video]. YouTube.',
-      tipo:
-        'Que es un proceso productivo, diferencias entre bienes y servicios.',
+        'Michael Vásquez Marketing. (2018). <em> Qué es un proceso productivo, diferencias entre bienes y servicios.</em> [Video]. YouTube.',
+      tipo: 'Video',
       link: 'https://youtu.be/XaB4wi79iFo',
     },
     {
       tema: 'Procesos productivos',
       referencia:
-        'Arcusa, I., Gil, F., y Suñe A. (2004). #[em Manual práctico de diseño de sistemas productivos. Ediciones] Díaz de Santos, S.A.',
+        'Arcusa, I., Gil, F., y Suñe A. (2004). <em> Manual práctico de diseño de sistemas productivos. Ediciones</em> Díaz de Santos, S.A.',
       tipo:
         'Capítulo 3 del libro Manual práctico de diseño de sistemas productivos',
       link:
@@ -157,14 +156,15 @@ export default {
     {
       tema: 'Gestión de los procesos',
       referencia:
-        'Pérez, F. de V., J. (2012). #[em Gestión por procesos.] ESIC Editorial.',
+        'Pérez, F. de V., J. (2012). <em> Gestión por procesos</em> ESIC Editorial.',
       tipo: 'Capítulo 4 del libro Gestión por procesos',
-      link: 'https://youtu.be/V_NE3DyOluo',
+      link:
+        'https://books.google.com.co/books?id=qbDaVMS6uhUC&lpg=PA2&dq=gestion%20de%20los%20procesos&hl=es&pg=PA2#v=onepage&q&f=false',
     },
     {
       tema: 'Normatividad de producción sostenible',
       referencia:
-        'Unesco Etxea - Centro Unesco del País Vasco (2018). ODS 12. #[em Producción y consumo responsables.] [Video]. YouTube.',
+        'Unesco Etxea - Centro Unesco del País Vasco (2018). ODS 12. <em> Producción y consumo responsables.</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Y2n7xFQWOjo',
     },
@@ -209,37 +209,37 @@ export default {
     },
     {
       referencia:
-        'Alfonso, Á., N. Z. H. (2015). #[em Principales normas ambientales colombianas.] EAN.',
+        'Alfonso, Á., N. Z. H. (2015). <em> Principales normas ambientales colombianas.</em> EAN.',
       link: '',
     },
     {
       referencia:
-        'Alonso, M., E., Ocegueda, M., V., y Castro, E. (2006). #[em Teoría de las organizaciones.] Umbral Editorial. S.A. de C.V.',
+        'Alonso, M., E., Ocegueda, M., V., y Castro, E. (2006). <em> Teoría de las organizaciones.</em> Umbral Editorial. S.A. de C.V.',
       link: '',
     },
     {
       referencia:
-        'Amorrazarain, M. (1999). #[em La gestión por procesos.] Editorial Mondragón Corporación Corporativa.',
+        'Amorrazarain, M. (1999). <em> La gestión por procesos.</em> Editorial Mondragón Corporación Corporativa.',
       link: '',
     },
     {
       referencia:
-        'Carro, R., y González, G., D. A. (2012). #[em El sistema de producción y operaciones.] Universidad Nacional del Mar del Plata.',
+        'Carro, R., y González, G., D. A. (2012). <em> El sistema de producción y operaciones.</em> Universidad Nacional del Mar del Plata.',
       link: '',
     },
     {
       referencia:
-        'Castaño, Q., C. A., Díaz, C., N., & Lozano, C., J. (2013). #[em Manual para la gestión del relacionamiento con los grupos de interés.] EAN.',
+        'Castaño, Q., C. A., Díaz, C., N., & Lozano, C., J. (2013). <em> Manual para la gestión del relacionamiento con los grupos de interés.</em> EAN.',
       link: '',
     },
     {
       referencia:
-        'Cetys Universidad. (2021). #[em ¿Qué es un proceso de producción empresarial?] Cetys -  Educación Continua.',
+        'Cetys Universidad. (2021). <em> ¿Qué es un proceso de producción empresarial?</em> Cetys -  Educación Continua.',
       link: '',
     },
     {
       referencia:
-        'Molinari, G., Alfonso, A., y Scaramellini, N. (2018). #[em Las áreas funcionales en las organizaciones: particularidades en las organizaciones turísticas.] Universidad Nacional de la Plata.',
+        'Molinari, G., Alfonso, A., y Scaramellini, N. (2018). <em> Las áreas funcionales en las organizaciones: particularidades en las organizaciones turísticas.</em> Universidad Nacional de la Plata.',
       link: '',
     },
   ],

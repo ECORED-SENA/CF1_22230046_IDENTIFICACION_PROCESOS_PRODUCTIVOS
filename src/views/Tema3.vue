@@ -39,10 +39,10 @@
           tr
             th.texto-blanco(style="border: none;") Convenio firmado 
             th.texto-blanco(style="border: none;") Objetivo
-            th.texto-blanco(style="border: none;") Informacion web
+            th.texto-blanco(style="border: none;") Información web
         tbody
           tr(style="background-color: #F6F6F6;")
-            td.fw-bold Convenio para el cambio climatico
+            td.fw-bold Convenio para el cambio Climático
             td Lograr la estabilidad de las concentraciones de gases efecto invemadero (GEI) en la atmósfera 
             td.py-4
               a(:href="obtenerLink('downloads/Convenio_Cambio_climatico.pdf')" target="_blank")
@@ -61,13 +61,13 @@
               
           tr(style="background-color: #F6F6F6;")
             td.fw-bold Convención de Basilea Residuos peligrosos (1989)
-            td Disminuir el volumen de losintercambios de residuos con el fin de protegerla salud humana y el medio ambiente, estableciendo un sistema de control de las exportaciones e importaciones de residuos peligrosos, así como su eliminación.
+            td Disminuir el volumen de los intercambios de residuos con el fin de proteger la salud humana y el medio ambiente, estableciendo un sistema de control de las exportaciones e importaciones de residuos peligrosos, así como su eliminación.
             td.py-4
               a(href="downloads/Convenio_Brasilea_1989_Residuos_Peligrosos.pdf" target="_blank")
                 img.mx-auto(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
           tr
             td.fw-bold Convención para la protección de la biodiversidad
-            td Fue promulgada en la Conferencia de Rio de Janeiro, en el año de 1991; su objetivo principal es la conservación de la biodiversidad
+            td Fue promulgada en la Conferencia de Río de Janeiro, en el año de 1991; su objetivo principal es la conservación de la biodiversidad
             td.py-4
               a(href="downloads/Convenio_proteccion_biodiversidad.pdf" target="_blank")
                 img.mx-auto(src="@/assets/template/icono-pdf.svg" style="max-width: 36px; cursor: pointer;")
@@ -86,7 +86,7 @@
           tr
             th.texto-blanco(style="border: none;") Convenio firmado 
             th.texto-blanco(style="border: none;") Objetivo
-            th.texto-blanco(style="border: none;") Informacion web
+            th.texto-blanco(style="border: none;") Información web
         tbody
           tr(style="background-color: #F6F6F6;")
             td.fw-bold.text-center LEY 1964 2019
@@ -97,7 +97,7 @@
                 p.mb-0.fw-bold(style="color: #006DF0") Enlace web.
           tr
             td.fw-bold.text-center LEY 1954 2019
-            td Por medio de la cual se aprueba el “Acuerdo para el establecimiento del Instituto Global para el Crecimiento Verde”suscrito en Río de Janeiro, el 20 de junio de 2012
+            td Por medio de la cual se aprueba el “Acuerdo para el establecimiento del Instituto Global para el Crecimiento Verde” suscrito en Río de Janeiro, el 20 de junio de 2012
             td.py-4
               a.d-flex.align-items-center.justify-content-center(href="https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30036486" target="_blank")
                 img.me-3(src="@/assets/template/icono-link.svg" style="max-width: 36px; cursor: pointer;")

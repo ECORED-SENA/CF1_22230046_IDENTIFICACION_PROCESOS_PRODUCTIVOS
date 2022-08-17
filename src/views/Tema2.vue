@@ -27,10 +27,10 @@
         .d-flex.flex-wrap.flex-xl-nowrap
           i.fas.fa-quote-left
           p.mb-0.text-regular La figura 3 muestra que el proceso productivo debe responder a un contexto sistemático, en el cual es decisivo la direccionalidad que tiene la organización para alcanzar las metas, pues esta debe disponer de capital económico, humano, información y materiales que permitan que el proceso productivo responda a las actividades comerciales mediante la promoción y comercialización de los bienes y servicios terminados.
-        p.ms-xl-5.fw-bold (Schneider y Samaniego, 2009)
+        p.ms-xl-5.fw-bold (Carro y González, 2012)
         i.fas.fa-quote-right.ms-auto
       img.mb-5(src="@/assets/curso/temas/tema2/decorador-1.svg" data-aos="fade-left" style="max-width: 125px").mb-4.mb-md-0.col-md-2.mx-auto.order-1.order-md-2
-
+    p.mb-5 En esa medida, la siguiente infografía, representa el proceso productivo: 
     img.mb-5.d-none.d-md-flex(src="@/assets/curso/temas/tema2/img-2.svg" data-aos="fade-left")
     img.mb-5.d-flex.d-md-none(src="@/assets/curso/temas/tema2/img-2-movil.svg" data-aos="fade-left")
 
@@ -147,7 +147,7 @@
     .d-flex.flex-wrap.mb-5
       img.mb-4.mb-xl-0.col-xl-5(src="@/assets/curso/temas/tema2/img-8.png" data-aos="fade-right")
       .col-xl-7.d-flex.align-items-center(style="background-color: #E1EFEF;" data-aos="fade-left")
-        p.p-4.py-xl-5 Es el periodo comprendido desde el inicio de un proceso productivo, como la planeación y la asignación de materias primas, hasta cuando se obtiene un beneficio económico por el producto final comercializado. Aquí es importante resaltar que en el ciclo de producción se involucra una serie de etapas como la creación del proceso, diseño del producto, selección del proceso, planeación y diseño del sistema las cuales conllevan a que las organizaciones logren el desarrollo del producto, introducción en el mercado y se así consolide su crecimiento. Si bien es cierto que el ciclo define el periodo en que la organización establece los costos e ingresos, no hay certeza de cuánto duraría el proceso, pues existen diferentes posibilidades en su duración. 
+        p.p-4.py-xl-5 Es el periodo comprendido desde el inicio de un proceso productivo, como la planeación y la asignación de materias primas, hasta cuando se obtiene un beneficio económico por el producto final comercializado. Aquí es importante resaltar que en el ciclo de producción se involucra una serie de etapas como la creación del proceso, diseño del producto, selección del proceso, planeación y diseño del sistema las cuales conllevan a que las organizaciones logren el desarrollo del producto, introducción en el mercado y así se consolide su crecimiento. Si bien es cierto que el ciclo define el periodo en que la organización establece los costos e ingresos, no hay certeza de cuánto duraría el proceso, pues existen diferentes posibilidades en su duración. 
 
     p.mb-5(data-aos="fade-right") En la siguiente gráfica se muestra de forma general el proceso las etapas y áreas de la organización que están involucradas en el ciclo del proceso productivo:
 

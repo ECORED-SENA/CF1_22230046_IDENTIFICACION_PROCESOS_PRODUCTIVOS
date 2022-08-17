@@ -126,7 +126,7 @@
             .me-auto.my-4.mb-md-0
               p.mb-5 Son fundamentales y complementarias de las básicas, ya que apoyan el cumplimiento de la misión organizacional como clave para el suministro de recursos necesarios para el desarrollo de la actividad de la organización; por ejemplo, gestión de los recursos humano, financiero, organizacional y sistemático, y de administración.
       img(src="@/assets/curso/temas/tema1/img-3_1.png" style="max-width: 404px").col-xl-5.m-auto.mb-4.m-xl-auto.order-1.order-xl-2
-    p.mb-5(data-aos="fade-right") Como se observa en la figura 2.las empresas cuentan, normalmente, con cuatro grandes áreas funcionales en las que se organizan y agrupan las actividades y personas según sus funciones; aunque de acuerdo con la capacidad y tamaño de las empresas estas áreas se pueden fusionar.
+    p.mb-5(data-aos="fade-right") Como se observa en la figura 2. las empresas cuentan, normalmente, con cuatro grandes áreas funcionales en las que se organizan y agrupan las actividades y personas según sus funciones; aunque de acuerdo con la capacidad y tamaño de las empresas estas áreas se pueden fusionar.
 
     .titulo-sexto.color-primario.mb-0
       .d-block
