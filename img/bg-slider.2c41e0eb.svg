@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="593" viewBox="0 0 1240 593">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_50227" data-name="Rectángulo 50227" width="1240" height="593" rx="22" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_50226" data-name="Rectángulo 50226" width="1240" height="593" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_50225" data-name="Rectángulo 50225" width="539.788" height="593" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_599798" data-name="Grupo 599798" transform="translate(3722 2179)">
+    <g id="Grupo_599794" data-name="Grupo 599794" transform="translate(-3722 -2162)">
+      <g id="Grupo_49020" data-name="Grupo 49020" transform="translate(0 -17)">
+        <g id="Grupo_158582" data-name="Grupo 158582" transform="translate(0)">
+          <g id="Grupo_157676" data-name="Grupo 157676">
+            <g id="Grupo_157684" data-name="Grupo 157684" clip-path="url(#clip-path)">
+              <path id="Trazado_225673" data-name="Trazado 225673" d="M0,0H1240V593H0Z" fill="#e1efef" opacity="0.58"/>
+              <g id="Grupo_157683" data-name="Grupo 157683">
+                <g id="Grupo_157682" data-name="Grupo 157682" clip-path="url(#clip-path-2)">
+                  <path id="Trazado_222638" data-name="Trazado 222638" d="M903.611,0V593h-365.9L217.424,241.137C136.424,152.152,193.791,0,308.345,0Z" transform="translate(336.389)" fill="#f8eaea"/>
+                  <g id="Grupo_157681" data-name="Grupo 157681" transform="translate(700.212)" opacity="0.23" style="mix-blend-mode: overlay;isolation: isolate">
+                    <g id="Grupo_157680" data-name="Grupo 157680">
+                      <g id="Grupo_157679" data-name="Grupo 157679" clip-path="url(#clip-path-3)">
+                        <path id="Trazado_222645" data-name="Trazado 222645" d="M243.64,0,783.428,593V0Z" transform="translate(-243.64)" fill="#fff"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
